@@ -56,7 +56,7 @@ Thank you. :laughing:
 
 사범대 밴드동아리 기장
 
-![밴드](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\밴드.jpg)
+![밴드](https://user-images.githubusercontent.com/122426133/212235699-5a633f59-30d2-4a32-9b42-77f569a87daa.jpg)
 
 
 
@@ -84,7 +84,7 @@ Thank you. :laughing:
 
 군산 미 111 전투비행단 38전대 공군병장 만기전역
 
-![38](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\38.jpg)
+![38](https://user-images.githubusercontent.com/122426133/212235689-35ea54c9-df09-4d43-bb3f-659ab1818436.jpg)
 
 
 
@@ -122,7 +122,7 @@ Thank you. :laughing:
 
 전주 기전중학교에서 영어 교생으로 근무
 
-![교생](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\교생.jpg)
+![교생](https://user-images.githubusercontent.com/122426133/212235696-c704e265-ee65-4629-97cd-3582facd19f4.jpg)
 
 
 
@@ -136,7 +136,7 @@ Thank you. :laughing:
 
 알고리즘 찍먹
 
-![백준](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\찍먹.png)
+![찍먹](https://user-images.githubusercontent.com/122426133/212235701-8c44aefa-781f-4ee5-81bf-8fc18066ed12.png)
 
 
 
@@ -150,7 +150,7 @@ Thank you. :laughing:
 
 아직 허접입니다...
 
-![티어](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\티어.jpg)
+![티어](https://user-images.githubusercontent.com/122426133/212235682-37029b67-d914-4ec0-bf27-062f18912ff5.jpg)
 
 
 
@@ -168,7 +168,7 @@ SSAFY 입과
 
 
 
-![ssafy](C:\Users\SSAFY\Desktop\GIT\dreammandoo\assets\ssafy.png)
+![ssafy](https://user-images.githubusercontent.com/122426133/212235695-f3f4a792-3ff3-4cc9-b02b-18db20087d29.png)
 
 
 
