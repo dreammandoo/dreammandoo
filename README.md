@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white""/></a>
+
+
 # Hello.
 
 My name is Eul Pill, Yang. Plz call me Pill. 😊
