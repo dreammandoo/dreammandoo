@@ -23,9 +23,9 @@
 
 ### ⚔️Motor
 
-``Life is journey, not a destination.``
-**<br/>**
-``Tomorrow, just like today.``
+``Life is journey, not a destination. 🚤``
+
+``Tomorrow, just like today. 🌈``
 
 **<br/>**
 
