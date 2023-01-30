@@ -3,6 +3,14 @@
 
 ``I want to be a great programmer. 💻``
 
+### ⚔️Motor
+
+``Life is journey, not a destination. 🚤``
+
+``Tomorrow, just like today. 🌈``
+
+**<br/>**
+
 #### **😀 Name**
 
 **Eul Pill, Yang.**
@@ -18,14 +26,6 @@
 #### :man_student: Job
 
 **SSAFY 9th Student (Samsung Software Academy for Youth)**
-
-**<br/>**
-
-### ⚔️Motor
-
-``Life is journey, not a destination. 🚤``
-
-``Tomorrow, just like today. 🌈``
 
 **<br/>**
 
