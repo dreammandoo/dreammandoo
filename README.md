@@ -1,24 +1,24 @@
 ### 🖐 **Hello!**
-	Im Newbie programmer student. 😁
-	I want to be a great programmer. 💻
+``Im Newbie programmer student. 😁
+I want to be a great programmer. 💻``
 
 **<br/>**
 
 #### **😀 Name**
 
-​	**Eul Pill, Yang. Pill.**
+**Eul Pill, Yang.**
 
 #### :sunglasses: Github Username
 
-​	**Dreammandoo**
+**Dreammandoo**
 
 #### 🥋 Level
 
-​	**Newbie**
+**Newbie**
 
 #### :man_student: Job
 
-​	**SSAFY 9th Student (Samsung Software Academy for Youth)**
+**SSAFY 9th Student (Samsung Software Academy for Youth)**
 
 **<br/>**
 
