@@ -1,9 +1,7 @@
 ### 🖐 **Hello!**
-``Im Newbie programmer student. 😁
+``Im Newbie programmer student. 😁''
 
-**<br/>**
-
-I want to be a great programmer. 💻``
+''I want to be a great programmer. 💻``
 
 #### **😀 Name**
 
