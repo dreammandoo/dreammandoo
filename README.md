@@ -1,4 +1,6 @@
 ### 🖐 **Hello!**
+	Im Newbie programmer student. 😁
+	I want to be a great programmer. 💻
 
 **<br/>**
 
@@ -52,7 +54,7 @@
 
 ![Eul Pill, Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreammandoo&show_icons=true&theme=radical)
 
-
+**<br/>**
 
 
 
@@ -113,13 +115,6 @@
 
 
 
-
-
-
-
-
-
-
 ## 2018年 9月 ~ 2020年 7月
 
 
@@ -127,8 +122,6 @@
 군산 미 111 전투비행단 38전대 공군병장 만기전역
 
 ![38](https://user-images.githubusercontent.com/122426133/212235689-35ea54c9-df09-4d43-bb3f-659ab1818436.jpg)
-
-
 
 
 
@@ -153,11 +146,6 @@
 
 
 
-
-
-
-
-
 ## 2022年 4月 ~ 2022年 5月
 
 
@@ -165,9 +153,6 @@
 전주 기전중학교에서 영어 교생으로 근무
 
 ![교생](https://user-images.githubusercontent.com/122426133/212235696-c704e265-ee65-4629-97cd-3582facd19f4.jpg)
-
-
-
 
 
 
@@ -186,17 +171,9 @@
 
 
 
-
-
-
-
 아직 허접입니다...
 
 ![티어](https://user-images.githubusercontent.com/122426133/212235682-37029b67-d914-4ec0-bf27-062f18912ff5.jpg)
-
-
-
-
 
 
 
@@ -214,10 +191,6 @@ SSAFY 입과
 
 
 
-
-
-
-
 # 좌우명
 
 
@@ -227,10 +200,6 @@ SSAFY 입과
 
 
 - 내일도 오늘처럼만.
-
-
-
-
 
 
 
