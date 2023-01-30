@@ -1,19 +1,56 @@
+### 🖐 **Hello!**
+
+**<br/>**
+
+#### **😀 Name**
+
+​	**Eul Pill, Yang. Pill.**
+
+#### :sunglasses: Github Username
+
+​	**Dreammandoo**
+
+#### 🥋 Level
+
+​	**Newbie**
+
+#### :man_student: Job
+
+​	**SSAFY 9th Student (Samsung Software Academy for Youth)**
+
+**<br/>**
+
+### 💪Skills
+
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white""/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=appveyor&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
+<div>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-# Hello.
+<div>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-My name is Eul Pill, Yang. Plz call me Pill. 😊
+**<br/>**
 
-I am newbie programming student. :man_student:
+###  :phone: Contact
 
-I am studying in SSAFY(samsung education stuff..) :school:
+<img src="https://img.shields.io/badge/G--mail-808080?style=plastic&logo=gmail&logoColor=white"/> **glemfkdlqm@gmail.com** 
 
-I want to be a great developer. :muscle:
+**<br/>**
 
-Thank you. :laughing:
+
+
+![Eul Pill, Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreammandoo&show_icons=true&theme=radical)
 
 
 
